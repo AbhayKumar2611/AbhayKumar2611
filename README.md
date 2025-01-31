@@ -31,8 +31,3 @@ Here are some ideas to get you started:
 
 ## Github stats
 
-## 📌 Pinned Repositories
-
-🔗 [Repo 1](https://github.com/AbhayKumar2611/4198_Project5)  
-🔗 [Repo 2](https://github.com/AbhayKumar2611/NewQuizApp)  
-🔗 [Repo 3](https://github.com/AbhayKumar2611/carousel)
