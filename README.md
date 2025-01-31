@@ -49,3 +49,6 @@ Email:- kumarabhay26111996@gmail.com
 
 ## Github stats
 
+![Screenshot 2025-01-31 132748](https://github.com/user-attachments/assets/370af390-a92c-401c-8294-2300998505ef)
+
+
