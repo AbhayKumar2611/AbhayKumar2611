@@ -4,7 +4,11 @@ A skilled Full Stack Web Developer with robust proficiency in the MERN stack, de
 
 More about Masai School: [Click Here](https://www.masaischool.com)
 
-- Bullet point 1
+- I am a Full Stack Developer
+- All of my projects are available at [Portfolio](https://abhkrportfolio.netlify.app/)
+- Ask me about Python | HTML | CSS | Javascript | React | Redux | Tailwind CSS | MySQL | MongoDB | Node | Express | Bootstrap
+- How to reach me : kumarabhay26111996@gmail.com | Linkedin[https://www.linkedin.com/in/abhay-kumar-96663096/]
+
 <!--
 **AbhayKumar2611/AbhayKumar2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
