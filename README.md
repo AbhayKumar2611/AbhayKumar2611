@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 -->
 
 ## Languages and Tools:
+![HTML](https://www.w3.org/html/logo/)
