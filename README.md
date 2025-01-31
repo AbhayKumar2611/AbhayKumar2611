@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 Email:- kumarabhay26111996@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-96663096/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://abhkrportfolio.netlify.app/)
 
