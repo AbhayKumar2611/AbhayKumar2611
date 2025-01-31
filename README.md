@@ -3,6 +3,8 @@
 A skilled Full Stack Web Developer with robust proficiency in the MERN stack, demonstrating agility in learning new technologies swiftly. Expertise in designing scalable web applications and seamless integrations using React.js and Node.js. Strong problem-solving, collaboration, and Generative AI capability ensure innovative solutions and technical excellence.
 
 More about Masai School: [Click Here](https://www.masaischool.com)
+
+- Bullet point 1
 <!--
 **AbhayKumar2611/AbhayKumar2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
